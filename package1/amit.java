@@ -1,6 +1,6 @@
-package package2;
+package package1;
 
-import java.package1.*;
+
 
 public class amit {
     public static void main(String[] args) {
